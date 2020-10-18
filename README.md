@@ -6,8 +6,8 @@ We are working to finish up the interactive Python instructional content. For no
 
 # In this section you will develop the following projects:
 
-# Arithmetic Formatter
-# Time Calculator
-# Budget App
-# Polygon Area Calculator
-# Probability Calculat
+Arithmetic Formatter /n
+Time Calculator \n
+Budget App
+Polygon Area Calculator
+Probability Calculat
