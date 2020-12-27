@@ -1,6 +1,4 @@
-FreeCodeCamp Curriculum
-
-# In this section I have developed the following projects:
+# In this section of FreeCodeCamp Curriculum I have developed the following projects:
 
 * Arithmetic Formatter
 * Time Calculato
